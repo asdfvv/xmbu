@@ -1,10 +1,5 @@
 name: 刷步数
 
-on:
-  push:
-    branches: [ master ]
-  pull_request:
-    branches: [ master ]
 
 
 jobs:
